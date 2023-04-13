@@ -102,17 +102,17 @@
 			isa = PBXGroup;
 			children = (
 				5AC84ADB29C929BB00BC09A0 /* HabitsTableViewController.swift */,
+				5AC84ADC29C929BB00BC09A0 /* HabitsTableViewController.xib */,
 				5AB76C9129DE4C4B00DAF13E /* HabitImageCollectionViewCell.swift */,
+				5AB76C9229DE4C4B00DAF13E /* HabitImageCollectionViewCell.xib */,
 				5A5A59AA29E4E10E00113902 /* HabitDetailViewController.swift */,
 				5A5A59AB29E4E10E00113902 /* HabitDetailViewController.xib */,
-				5AB76C9229DE4C4B00DAF13E /* HabitImageCollectionViewCell.xib */,
 				5AB76C9529DE78A100DAF13E /* ConfirmHabitViewController.swift */,
 				5AB76C9629DE78A100DAF13E /* ConfirmHabitViewController.xib */,
 				5AB76C8D29DE45FE00DAF13E /* AddHabitViewController.swift */,
 				5AB76C8E29DE45FE00DAF13E /* AddHabitViewController.xib */,
 				5AB76C8729D26F8100DAF13E /* HabitTableViewCell.swift */,
 				5AB76C8829D26F8100DAF13E /* HabitTableViewCell.xib */,
-				5AC84ADC29C929BB00BC09A0 /* HabitsTableViewController.xib */,
 			);
 			path = Views;
 			sourceTree = "<group>";
